@@ -1,2 +1,3 @@
-# Mini-Project-0
-Printing a message
+# Mini-Project #0
+
+print "We want... a shrubbery!"
